@@ -1,6 +1,6 @@
 // Selezionare elemento h1
-const mainTitle = document.getElementById("main-title");
-console.log(mainTitle);
+const pswGen = document.getElementById("password-gen");
+console.log(pswGen);
 
 // Inserisci Nome Utente
 const userName = prompt("Qual è il tuo nome?", "Mattia");
@@ -19,4 +19,4 @@ const pswGenerated = userName + userSurname + userColor + "24";
 console.log(pswGenerated);
 
 // Stampare password generate nel titolo della pagina
-mainTitle.innerText = `La password che abbiamo generato per te è: ${pswGenerated}`;
+pswGen.innerText = `La password che abbiamo generato per te è: ${pswGenerated}`;
