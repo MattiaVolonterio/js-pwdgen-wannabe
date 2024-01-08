@@ -15,17 +15,22 @@ Infine scrivi sulla pagina nomecognomecolorepreferito24
 
 ## SVOLGIMENTO
 
-- Chiedi all'utente: Qual'è il tuo nome?
-- Salva la risposta
+1. Chiedi all'utente: Qual'è il tuo nome?
 
-- Chiedi all'utente: Qual'è il tuo cognome?
-- Salva la risposta
+   - Salva la risposta
 
-- Chiedi all'utente: Qual'è il tuo colore preferito?
-- Salva la risposta
+2. Chiedi all'utente: Qual'è il tuo cognome?
 
-- Prendi i tre risultati salvati e concatenali
-- Aggiungi 24 alla fine
-- Salva il risultato
+   - Salva la risposta
 
-- Stampa a video il risultato
+3. Chiedi all'utente: Qual'è il tuo colore preferito?
+
+   - Salva la risposta
+
+4. Prendi i tre risultati salvati
+
+   - Concatenali
+   - Aggiungi 24 alla fine
+   - Salva il risultato
+
+5. Stampa a video il risultato
